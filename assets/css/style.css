@@ -22,10 +22,6 @@ h1, h2, h3, h4, h5, h6, em, footer p{
     padding-bottom: 9px;
 }
 
-.myCard{
-    border-radius: 0;
-}
-
 .myBtnMenu{
     color: orange;
     background-color: #ff9800;
