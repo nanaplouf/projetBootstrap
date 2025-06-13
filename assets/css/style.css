@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@0;1&family=Dosis:wght@200..800&family=Gruppo&display=swap');
+
+body{
+    font-family: 'Dosis', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, em, footer p{
+    font-family: 'Texturina', serif;
+}
+
+.myBtn {
+    border-color: #ff9800;
+    color: orange;
+    background-color: #212529;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.myInput {
+    border-radius: 0; 
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+.myCard{
+    border-radius: 0;
+}
+
+.myBtnMenu{
+    color: orange;
+    background-color: #ff9800;
+}
+
